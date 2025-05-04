@@ -1,0 +1,9 @@
+@font-face {
+    font-family: 'FC Barcelona';
+    src: local('FC Barcelona CONDENSED'), local('FC-Barcelona-CONDENSED'),
+        url('FCBARCELONACONDENSED.woff2') format('woff2'),
+        url('FCBARCELONACONDENSED.woff') format('woff'),
+        url('FCBARCELONACONDENSED.ttf') format('truetype');
+    font-weight: normal;
+    font-style: normal;
+  }

@@ -1,0 +1,6 @@
+//alert("Registration Closed. Next batch starting soon!!!");
+
+function registration(){
+	
+	alert("Registration Closed. Next batch starting soon!!!");
+}
