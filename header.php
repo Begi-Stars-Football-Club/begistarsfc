@@ -7,7 +7,7 @@
 						<div class="row justify-content-between">
 							<div class="dez-topbar-left">
 								<ul class="social-line text-center pull-right">
-									<li><a href="javascript:void(0);"><i class="fa fa-envelope-o"></i> <span> info@begistarsfc.com </span> </a></li>
+									<li><a href="javascript:void(0);"><i class="fa fa-envelope-o"></i> <span> infox@begistarsfc.com </span> </a></li>
 									<li><a href=""><i class="fa fa-phone"></i> <span> (+234) 201-454-0120 </span> </a></li>
 								</ul>
 							</div>                        
