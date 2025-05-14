@@ -5,7 +5,7 @@
                     <div class="col-lg-3 col-sm-6 footer-col-4">
                         <div class="widget widget_about">
                             <div class="logo-footer"><img src="images/logo.png" alt=""></div>
-                            <p class="m-tb20"><strong>Begi Stars FC</strong> is built on a foundation of discipline, excellence, and ambition. Through strategic partnerships with international football clubs, scouts, and agents, we are committed to creating pathways for our players to gain global exposure and showcase their talent at the highest levels of the game.</p>
+                            <p class="m-tb20"><strong>Begi Stars FC</strong> is built on a foundation of discipline, excellence and ambition. Through strategic partnerships with international football clubs, scouts, and agents, we are committed to creating pathways for our players to gain global exposure and showcase their talent at the highest levels of the game.</p>
                             <ul class="dez-social-icon border dez-social-icon-lg">
                                 <li><a href="https://www.facebook.com/share/1FJngFTmgD/?mibextid=LQQJ4d" class="fab fa-facebook fb-btn"></a></li>
 									
